@@ -1,0 +1,20 @@
+.welcome .welcome-watermark .watermark.leftwatermark {
+    width: 100%;
+}
+.watermark {
+    width: 100%;
+    height: 100%;
+}
+
+.welcome .header .header-text-title {
+    display:none !important
+}
+
+.welcome .header .header-container:before {
+    content: 'medeecal';
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 500;
+    line-height: 1.18;
+    text-align: center;
+}

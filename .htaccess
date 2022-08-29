@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+RedirectMatch "^/static/close2\.html/?$" "https://medeecal.com"
+</IfModule>
