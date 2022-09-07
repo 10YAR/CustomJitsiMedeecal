@@ -11,10 +11,14 @@
 }
 
 .welcome .header .header-container:before {
-    content: 'medeecal';
+    content: 'Online Consultation';
     color: #fff;
     font-size: 2.5rem;
     font-weight: 500;
     line-height: 1.18;
     text-align: center;
+}
+
+.welcome .header .header-text-subtitle {
+    visibility: hidden;
 }
